@@ -33,12 +33,12 @@
     }
   },
   "frameworks": {
-    "net40": {
-      "frameworkAssemblies": {
-        "System.Data": "4.0.0.0",
-        "System.Data.Linq": "4.0.0.0"
-      }
-    },
+    //"net40": {
+    //  "frameworkAssemblies": {
+    //    "System.Data": "4.0.0.0",
+    //    "System.Data.Linq": "4.0.0.0"
+    //  }
+    //},
     "net45": {
       "buildOptions": {
         "define": [ "ASYNC" ]

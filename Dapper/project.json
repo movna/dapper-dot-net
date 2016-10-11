@@ -23,13 +23,13 @@
     "warningsAsErrors": true
   },
   "frameworks": {
-    "net40": {
-      "frameworkAssemblies": {
-        "System.Data": "4.0.0.0",
-        "System.Xml": "4.0.0.0",
-        "System.Xml.Linq": "4.0.0.0"
-      }
-    },
+    //"net40": {
+    //  "frameworkAssemblies": {
+    //    "System.Data": "4.0.0.0",
+    //    "System.Xml": "4.0.0.0",
+    //    "System.Xml.Linq": "4.0.0.0"
+    //  }
+    //},
     "net45": {
       "buildOptions": {
         "define": [ "ASYNC" ]
